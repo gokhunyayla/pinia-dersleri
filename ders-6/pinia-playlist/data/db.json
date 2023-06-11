@@ -1,0 +1,10 @@
+{
+  "diary": [
+    {
+      "id": 2,
+      "diary": "deneme 2",
+      "date": "11.6.2023",
+      "isFav": false
+    }
+  ]
+}
