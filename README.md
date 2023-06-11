@@ -6,6 +6,8 @@ Bu çalışmamızda Vue.js için olmazsa olmaz state yönetimi çalışmalarına
 
 Ek olarak öğrenimi pekiştirmek adına projeyi bir günlük uygulaması yapmak üzere şekillendireceğim. Bu çalışmanın sonunda kendinize ait temel seviyede bir günlük uygulamasına sahip olacaksınız.
 
+Youtube Video Eğitimi serisine buradan ulaşabilirsiniz: https://www.youtube.com/playlist?list=PLxyK_IDMxgCWeNYJ3_B2mzZav2z_BgF-Q
+
 Kullanılanlar Detayını aşağıda veriyorum:
 
 Google Material Icons
