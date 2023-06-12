@@ -8,6 +8,18 @@ Ek olarak öğrenimi pekiştirmek adına projeyi bir günlük uygulaması yapmak
 
 Youtube Video Eğitimi serisine buradan ulaşabilirsiniz: https://www.youtube.com/playlist?list=PLxyK_IDMxgCWeNYJ3_B2mzZav2z_BgF-Q
 
+Kurulum için: 
+>> npm install pinia
+
+JSON Server Kurulumu için:
+>> npm install -g json-server
+
+JSON Server Çalıştırma için:
+>> json-server -w ./{{ JSON DOSYASININ PATH'I }}/xxx.JSON
+
+Vue.js Yeni Proje Oluşturmak için:
+>> npm init vue@latest
+
 Kullanılanlar Detayını aşağıda veriyorum:
 
 Google Material Icons
